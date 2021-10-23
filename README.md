@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirzarandi
 - 👀 I’m interested in robotics, data scientific programming, ML, and coding for hours on end!
-- 🌱 I’m currently learning introductory web dev.
+- 🌱 I’m currently learning introductory web development.
 - 💞️ I’m looking to collaborate on robotics projects. 
 - 📫 How to reach me: amirhossein.zarandi@gmail.com
 
