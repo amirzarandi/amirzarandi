@@ -3,7 +3,7 @@
 🔭 Currently working on image processing and cloud automation projects.  
 🌱 Learning something new every day, whether it's assembly or AWS!  
 💬 Always open to collaborating on exciting projects—hit me up with your ideas!  
-📫 Reach me on [LinkedIn](www.linkedin.com/in/amir-h-zarandi)
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/amir-h-zarandi)
 
 
 <!---
