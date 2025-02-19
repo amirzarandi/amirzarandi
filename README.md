@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amir</h1>
-- 🔭 I’m currently working on [increasing shareholder value for Nimblemind](https://nimblemind.ai)
+
+- 🔭 I’m currently working on increasing shareholder value for **Nimblemind**
 
 - 🌱 While surviving **Columbia**
 
@@ -10,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amir-h-zarandi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-h-zarandi/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/business65" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="business65" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
