@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Creating shareholder value for Nimblemind<br>📚 Currently really into multi-threading, concurrency, etc.</p>
+<p align="left">📚 Currently really into multi-threading, concurrency, etc.</p>
 
 ###
 
