@@ -8,8 +8,6 @@
 
 ###
 
-<h2 align="left">I code with</h2>
-
 ###
 
 ###
